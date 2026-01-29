@@ -1,0 +1,5 @@
+name = "Hemanth is good boy"
+substring = "is"
+
+if substring in string:
+    print(substring,"found in name")

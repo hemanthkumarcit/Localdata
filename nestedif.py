@@ -1,0 +1,19 @@
+weather = input("Enter the weather:")
+time_of_day = input("Enter the time_of_day:")
+
+if weather == "sunny":
+    if time_of_day == "day":
+        print("you play with ur car.")
+    else:
+        print("its night.Time to sleep.")
+elif weather == "rainy":
+    print("you play with ur boat.")
+elif weather == "snowy":
+    if time_of_day == "night":
+        print("You play with ur mardhal")
+    else:
+        print("you play with snowman.")
+else:
+    print("I won't play i used to read book")
+
+
