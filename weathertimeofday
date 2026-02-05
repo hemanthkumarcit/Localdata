@@ -4,4 +4,5 @@ time_of_the_day = "night"
 if weather == "Sunny":
     print("you can play with your car toy")
 elif weather == "Rainy"
-    print(
+    print("You play with  car top")
+
