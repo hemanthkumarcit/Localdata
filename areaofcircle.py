@@ -1,4 +1,4 @@
-radius = float(input("Give Radius: "))
+radius = float(input("Give the Radius: "))
 a = 3.14*(radius**2)
 
 print("Area of the circle:",3.14*radius*radius)
